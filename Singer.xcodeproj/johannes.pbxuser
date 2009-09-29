@@ -1,0 +1,276 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* SingerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 502}}";
+			sepNavSelRange = "{462, 0}";
+			sepNavVisRange = "{0, 578}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 689}}";
+			sepNavSelRange = "{1710, 0}";
+			sepNavVisRange = "{0, 1661}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8FC1423E10722F1100282421 /* Singer */;
+		activeTarget = 8D1107260486CEB800E47090 /* Singer */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Singer */,
+		);
+		codeSenseManager = 8FC1424310722F3000282421 /* Code sense */;
+		executables = (
+			8FC1423E10722F1100282421 /* Singer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					632,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 275918609;
+			PBXWorkspaceStateSaveDate = 275918609;
+		};
+		perUserProjectItems = {
+			8FC142AA107237AD00282421 /* PBXTextBookmark */ = 8FC142AA107237AD00282421 /* PBXTextBookmark */;
+			8FC142AB107237AD00282421 /* PBXTextBookmark */ = 8FC142AB107237AD00282421 /* PBXTextBookmark */;
+			8FC142B0107237B200282421 /* PBXTextBookmark */ = 8FC142B0107237B200282421 /* PBXTextBookmark */;
+			8FC142B1107237B200282421 /* PBXTextBookmark */ = 8FC142B1107237B200282421 /* PBXTextBookmark */;
+			8FC142BA1072393F00282421 /* PBXTextBookmark */ = 8FC142BA1072393F00282421 /* PBXTextBookmark */;
+			8FC142BE107239F000282421 /* PBXTextBookmark */ = 8FC142BE107239F000282421 /* PBXTextBookmark */;
+			8FC142C210723A4000282421 /* PBXTextBookmark */ = 8FC142C210723A4000282421 /* PBXTextBookmark */;
+			8FC142CB10723ECD00282421 /* PBXBookmark */ = 8FC142CB10723ECD00282421 /* PBXBookmark */;
+			8FC142CC10723ECD00282421 /* PBXBookmark */ = 8FC142CC10723ECD00282421 /* PBXBookmark */;
+			8FC142CD10723ECD00282421 /* PBXTextBookmark */ = 8FC142CD10723ECD00282421 /* PBXTextBookmark */;
+			8FC142CE10723ECD00282421 /* PBXTextBookmark */ = 8FC142CE10723ECD00282421 /* PBXTextBookmark */;
+			8FC142CF10723ECD00282421 /* PBXTextBookmark */ = 8FC142CF10723ECD00282421 /* PBXTextBookmark */;
+			8FC142D210723FC100282421 /* PBXTextBookmark */ = 8FC142D210723FC100282421 /* PBXTextBookmark */;
+			8FC142D310723FC100282421 /* PBXTextBookmark */ = 8FC142D310723FC100282421 /* PBXTextBookmark */;
+			8FC142D410723FC100282421 /* PBXTextBookmark */ = 8FC142D410723FC100282421 /* PBXTextBookmark */;
+			8FC142DA1072406300282421 /* PBXTextBookmark */ = 8FC142DA1072406300282421 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8FC1424210722F3000282421 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Singer */ = {
+		activeExec = 0;
+		executables = (
+			8FC1423E10722F1100282421 /* Singer */,
+		);
+	};
+	8FC1423E10722F1100282421 /* Singer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Singer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8FC1424210722F3000282421 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FC1424310722F3000282421 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8FC142AA107237AD00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		rLen = 0;
+		rLoc = 483;
+		rType = 0;
+	};
+	8FC142AB107237AD00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 1038;
+		vrLoc = 238;
+	};
+	8FC142B0107237B200282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	8FC142B1107237B200282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 1821;
+		rType = 0;
+		vrLen = 1276;
+		vrLoc = 0;
+	};
+	8FC142BA1072393F00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 0;
+	};
+	8FC142BE107239F000282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 1337;
+		vrLoc = 0;
+	};
+	8FC142C210723A4000282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 1337;
+		vrLoc = 0;
+	};
+	8FC142C410723B8700282421 /* open.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{65, 106}, {1509, 917}}";
+		};
+	};
+	8FC142CB10723ECD00282421 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8FC142C410723B8700282421 /* open.png */;
+	};
+	8FC142CC10723ECD00282421 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8FC142C510723B8700282421 /* closed.png */;
+	};
+	8FC142CD10723ECD00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SingerAppDelegate.h */;
+		name = "SingerAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 552;
+		vrLoc = 0;
+	};
+	8FC142CE10723ECD00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 1814;
+		rType = 0;
+		vrLen = 1566;
+		vrLoc = 0;
+	};
+	8FC142CF10723ECD00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 1688;
+		rType = 0;
+		vrLen = 1588;
+		vrLoc = 0;
+	};
+	8FC142D210723FC100282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SingerAppDelegate.h */;
+		name = "SingerAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 0;
+	};
+	8FC142D310723FC100282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 1664;
+		vrLoc = 0;
+	};
+	8FC142D410723FC100282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 41";
+		rLen = 0;
+		rLoc = 1710;
+		rType = 0;
+		vrLen = 1658;
+		vrLoc = 3;
+	};
+	8FC142DA1072406300282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 41";
+		rLen = 0;
+		rLoc = 1710;
+		rType = 0;
+		vrLen = 1661;
+		vrLoc = 0;
+	};
+}
