@@ -13,6 +13,7 @@
 	IBOutlet NSImageView *imageView;
 	IBOutlet NSButton *startButton;
 	IBOutlet NSButton *stopButton;
+	IBOutlet NSPopUpButton *voiceList;
 	NSImage *openImage;
 	NSImage *closedImage;
 	NSSpeechSynthesizer *ns;
