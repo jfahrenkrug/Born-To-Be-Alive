@@ -2,16 +2,16 @@
 {
 	256AC3D80F4B6AC300CF3369 /* SingerAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {810, 502}}";
-			sepNavSelRange = "{241, 27}";
+			sepNavIntBoundsRect = "{{0, 0}, {810, 479}}";
+			sepNavSelRange = "{403, 13}";
 			sepNavVisRange = "{0, 614}";
 		};
 	};
 	256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1335, 1040}}";
-			sepNavSelRange = "{1605, 874}";
-			sepNavVisRange = "{1019, 1546}";
+			sepNavIntBoundsRect = "{{0, 0}, {838, 1248}}";
+			sepNavSelRange = "{538, 0}";
+			sepNavVisRange = "{294, 987}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -89,6 +89,12 @@
 			8FC143191072502500282421 /* PBXTextBookmark */ = 8FC143191072502500282421 /* PBXTextBookmark */;
 			8FC1431D1072504300282421 /* PBXTextBookmark */ = 8FC1431D1072504300282421 /* PBXTextBookmark */;
 			8FC143241072513100282421 /* PBXTextBookmark */ = 8FC143241072513100282421 /* PBXTextBookmark */;
+			8FC14327107251DA00282421 /* PBXTextBookmark */ = 8FC14327107251DA00282421 /* PBXTextBookmark */;
+			8FC14328107251DA00282421 /* PBXTextBookmark */ = 8FC14328107251DA00282421 /* PBXTextBookmark */;
+			8FC14329107251DA00282421 /* PBXTextBookmark */ = 8FC14329107251DA00282421 /* PBXTextBookmark */;
+			8FC1432D107251EE00282421 /* PBXTextBookmark */ = 8FC1432D107251EE00282421 /* PBXTextBookmark */;
+			8FC1432E107251EE00282421 /* PBXTextBookmark */ = 8FC1432E107251EE00282421 /* PBXTextBookmark */;
+			8FC143341072521900282421 /* PBXTextBookmark */ = 8FC143341072521900282421 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 8FC1424210722F3000282421 /* Source Control */;
 		userBuildSettings = {
@@ -148,7 +154,7 @@
 		isa = PBXTextBookmark;
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		rLen = 0;
-		rLoc = 665;
+		rLoc = 699;
 		rType = 0;
 	};
 	8FC142AB107237AD00282421 /* PBXTextBookmark */ = {
@@ -156,7 +162,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 20";
 		rLen = 0;
-		rLoc = 665;
+		rLoc = 699;
 		rType = 0;
 		vrLen = 1038;
 		vrLoc = 238;
@@ -176,7 +182,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 27";
 		rLen = 0;
-		rLoc = 2565;
+		rLoc = 2599;
 		rType = 0;
 		vrLen = 1276;
 		vrLoc = 0;
@@ -186,7 +192,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 21";
 		rLen = 0;
-		rLoc = 665;
+		rLoc = 699;
 		rType = 0;
 		vrLen = 1297;
 		vrLoc = 0;
@@ -196,7 +202,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 665;
+		rLoc = 699;
 		rType = 0;
 		vrLen = 1337;
 		vrLoc = 0;
@@ -206,7 +212,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 665;
+		rLoc = 699;
 		rType = 0;
 		vrLen = 1337;
 		vrLoc = 0;
@@ -239,7 +245,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 37";
 		rLen = 0;
-		rLoc = 2558;
+		rLoc = 2592;
 		rType = 0;
 		vrLen = 1566;
 		vrLoc = 0;
@@ -249,7 +255,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 36";
 		rLen = 0;
-		rLoc = 2512;
+		rLoc = 2546;
 		rType = 0;
 		vrLen = 1588;
 		vrLoc = 0;
@@ -269,7 +275,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 34";
 		rLen = 0;
-		rLoc = 903;
+		rLoc = 937;
 		rType = 0;
 		vrLen = 1664;
 		vrLoc = 0;
@@ -279,7 +285,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 41";
 		rLen = 0;
-		rLoc = 2556;
+		rLoc = 2590;
 		rType = 0;
 		vrLen = 1658;
 		vrLoc = 3;
@@ -289,7 +295,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 41";
 		rLen = 0;
-		rLoc = 2556;
+		rLoc = 2590;
 		rType = 0;
 		vrLen = 1661;
 		vrLoc = 0;
@@ -299,7 +305,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 33";
 		rLen = 0;
-		rLoc = 1535;
+		rLoc = 1569;
 		rType = 0;
 		vrLen = 1755;
 		vrLoc = 41;
@@ -339,7 +345,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 605;
+		rLoc = 639;
 		rType = 0;
 		vrLen = 1067;
 		vrLoc = 0;
@@ -349,7 +355,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 1471;
 		vrLoc = 3;
@@ -359,7 +365,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 969;
 		vrLoc = 89;
@@ -369,7 +375,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 998;
 		vrLoc = 89;
@@ -389,7 +395,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 43";
 		rLen = 0;
-		rLoc = 1362;
+		rLoc = 1396;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 264;
@@ -399,7 +405,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 69";
 		rLen = 0;
-		rLoc = 2554;
+		rLoc = 2588;
 		rType = 0;
 		vrLen = 1607;
 		vrLoc = 893;
@@ -409,7 +415,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 22";
 		rLen = 0;
-		rLoc = 508;
+		rLoc = 542;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 3;
@@ -419,7 +425,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 70";
 		rLen = 0;
-		rLoc = 2558;
+		rLoc = 2592;
 		rType = 0;
 		vrLen = 1545;
 		vrLoc = 873;
@@ -429,7 +435,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 58";
 		rLen = 0;
-		rLoc = 1579;
+		rLoc = 1613;
 		rType = 0;
 		vrLen = 1640;
 		vrLoc = 837;
@@ -469,7 +475,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 58";
 		rLen = 0;
-		rLoc = 1579;
+		rLoc = 1613;
 		rType = 0;
 		vrLen = 1650;
 		vrLoc = 827;
@@ -489,7 +495,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 65";
 		rLen = 0;
-		rLoc = 1579;
+		rLoc = 1613;
 		rType = 0;
 		vrLen = 1543;
 		vrLoc = 1022;
@@ -499,9 +505,69 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
 		name = "SingerAppDelegate.m: 66";
 		rLen = 874;
-		rLoc = 1605;
+		rLoc = 1639;
 		rType = 0;
 		vrLen = 1546;
 		vrLoc = 1019;
+	};
+	8FC14327107251DA00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 542;
+		rType = 0;
+		vrLen = 907;
+		vrLoc = 289;
+	};
+	8FC14328107251DA00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SingerAppDelegate.h */;
+		name = "SingerAppDelegate.h: 11";
+		rLen = 27;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	8FC14329107251DA00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SingerAppDelegate.h */;
+		name = "SingerAppDelegate.h: 16";
+		rLen = 13;
+		rLoc = 403;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	8FC1432D107251EE00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SingerAppDelegate.h */;
+		name = "SingerAppDelegate.h: 16";
+		rLen = 13;
+		rLoc = 403;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	8FC1432E107251EE00282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 538;
+		rType = 0;
+		vrLen = 985;
+		vrLoc = 294;
+	};
+	8FC143341072521900282421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SingerAppDelegate.m */;
+		name = "SingerAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 538;
+		rType = 0;
+		vrLen = 987;
+		vrLoc = 294;
 	};
 }

@@ -21,6 +21,7 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
 	[voiceList removeAllItems];
 	[voiceList addItemsWithTitles:[self getSpeechVoices]];
+	[voiceList selectItemAtIndex:2];
 	
 	openImage = [NSImage imageNamed:@"open"];
 	closedImage = [NSImage imageNamed:@"closed"];
