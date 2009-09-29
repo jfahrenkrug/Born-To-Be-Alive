@@ -1,0 +1,1 @@
+NSSpeechSynthesizer crashes after the 2nd sentence with some voices (like Bells). The voice Alex works best. I've already filed a radar.
